@@ -1,4 +1,4 @@
-# Project involving numerous Statistical Methods
+# MA-541 Statistical Methods Final Project
 This project involves the statistical analysis of vehicles dataset in Canada for the year 2022. The 
 dataset contains over 900 rows of information on fuel consumption, engine size, CO2 emissions, 
 etc., of various vehicles. Numerous statistical tests, including F-test, Z-test, ANOVA, and chi-squared test, were conducted to explore the relationships between the variables. 
